@@ -1,3 +1,3 @@
 Docker hub:
 
-docker pull lucasstern93/golang-fullcycle
+https://hub.docker.com/r/lucasstern93/golang-fullcycle
